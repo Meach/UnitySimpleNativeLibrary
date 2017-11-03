@@ -1,0 +1,10 @@
+*.apk
+Unity/SimpleNativeLibrary/.vs/
+Unity/SimpleNativeLibrary/Assets/Plugins/
+Unity/SimpleNativeLibrary/Library/
+Unity/SimpleNativeLibrary/Temp/
+VisualStudio/SimpleNativeLibrary/.vs/
+*.db
+VisualStudio/SimpleNativeLibrary/SimpleNativeLibrary/x64/
+VisualStudio/SimpleNativeLibrary/x64/
+VisualStudio/SimpleNativeLibrary/ipch/
